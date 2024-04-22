@@ -1,0 +1,68 @@
+2024-04-22 17:38:02.459991
+function "flat_generator" was called
+args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F970>
+2024-04-22 17:38:02.459991
+function "flat_generator" was called
+args: (['a'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.459991
+function "flat_generator" was called
+args: (['b', 'c'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.459991
+function "flat_generator" was called
+args: ([['f'], 'h'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F2E0>
+2024-04-22 17:38:02.459991
+function "flat_generator" was called
+args: ([[[[['!']]]]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([[['!']]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F2E0>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: (['!'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FB50>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F970>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: (['a'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: (['b', 'c'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([['f'], 'h'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([[[[['!']]]]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([[['!']]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F2E0>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: (['!'],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FB50>
+2024-04-22 17:38:02.460991
+function "flat_generator" was called
+args: ([],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6FA60>
+2024-04-22 17:38:02.461991
+function "flat_generator" was called
+args: ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), kwargs: {}
+result: <generator object flat_generator at 0x00000251FCF6F970>
